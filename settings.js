@@ -10,23 +10,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254115213011"
-global.ownername = "🐛ZekeWanjuu"
-global.ytname = "YT: Zeke_Wanjuu"
-global.socialm = "GitHub: ZekeWanjuu"
+global.ownernomer = "254747768955"
+global.ownername = "🐛VOID"
+global.ytname = "YT: VOID"
+global.socialm = "GitHub: VOID"
 global.location = "Kenya"
 
-global.ownernumber = '254115213011'  //creator number
-global.ownername = '🐛ZekeWanjuu' //owner name
-global.botname = 'Zeke ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '254747768955'  //creator number
+global.ownername = '🐛VOID' //owner name
+global.botname = 'VOID ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ZekeWanjuu\n\nContact: +254115213011'
+global.author = 'VOID\n\nContact: 254747768955'
 
 //console view/theme
 global.themeemoji = '😂😂😂'
-global.wm = "Youtube zeke_wanjuu."
+global.wm = "Youtube VOID."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
